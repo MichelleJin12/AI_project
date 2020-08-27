@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/AI 프로젝트/opencv" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/facenet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/facenet-20200815T143325Z-001/facenet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/facenet/usage/AI 프로젝트/opencv" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/facenet/usage/facenet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/facenet/usage/facenet (copy)" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/facenet/usage/facenet (copy)/usage/AI 프로젝트/opencv" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/facenet/usage/facenet (copy)/usage/opencv" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/facenet/usage/facenet/usage/AI 프로젝트/opencv" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/facenet/usage/facenet/usage/opencv" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/facenet/usage/opencv" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/opencv" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/openpose" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/usage/AI 프로젝트/opencv" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/usage/opencv" vcs="Git" />
+  </component>
+</project>
